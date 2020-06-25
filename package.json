@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",
-    "publish": "next build && next export && cp -R ./.next/static ./out/_next/static/ && gh-pages -d out/",
+    "pages": "next build && next export && gh-pages -t -d out/ --dotfiles",
     "start": "next start",
     "type-check": "tsc --pretty --noEmit",
     "format": "prettier --write **/*.{js,ts,tsx}",
