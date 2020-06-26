@@ -1,2 +1,0 @@
-# JSprofiler
-Coming soon enough
