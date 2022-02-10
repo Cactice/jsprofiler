@@ -30,7 +30,7 @@
     "@zeit/next-sass": "^1.0.1",
     "bulma": "^0.9.0",
     "next": "latest",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "sass": "^1.26.9",
